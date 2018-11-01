@@ -1,0 +1,14 @@
+C:\Users\Hzllaga\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\Hzllaga\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\Hzllaga\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\Hzllaga\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Hzllaga\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\HttpCodeLib.dll
+C:\Users\Hzllaga\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\HttpCodeLib.pdb
+C:\Users\Hzllaga\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\HttpCodeLib.xml
+C:\Users\Hzllaga\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+C:\Users\Hzllaga\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\BackgrandScanner.exe.config
+C:\Users\Hzllaga\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\BackgrandScanner.exe
+C:\Users\Hzllaga\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\BackgrandScanner.pdb
+C:\Users\Hzllaga\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\BackgrandScanner.Properties.Resources.resources
+C:\Users\Hzllaga\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\BackgrandScanner.exe
+C:\Users\Hzllaga\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\BackgrandScanner.pdb
